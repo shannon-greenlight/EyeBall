@@ -1,0 +1,19 @@
+Assembly Instructions for the EyeBall
+
+The EyeBall comes as two printed circuit boards, referred to as "the circuit board" and "the front panel" in this document.
+
+Front Panel
+The only components attached to the front panel are the hex stand-offs (SO1 - SO4) and the associated screws (SC1 - SC4).
+Start by attaching the standoffs to the front panel.
+
+Circuit Board
+1. Install H1 - H4 on the bottom side of the circuit board.
+2. Install discrete components and ICs. (save the longer trimmed leads for step 4.)
+3. Install LEDs and Photo transistor. Use stand-off spacers to mount LEDs and the photo transistor. If these aren't available, 
+	place circuit board onto the front panel standoffs and set the height of the component by pushing it into the hole in the front panel. 
+	Solder the component into place and remove the circuit board from the front panel to continue assembly.
+4. Install potentiometers. Use trimmed component leads to connect potentiometers to the circuit board.
+5. Install Jacks. Make sure all jacks are seated flush to the circuit board.
+6. Clean the board with flux remover. (optional)
+7. Test it.
+8. If everything works, assemble the to parts and you're ready to go!
