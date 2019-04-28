@@ -1,0 +1,346 @@
+Results of Spice netlist generation for C:\Users\Shannon\Dropbox\moog\EyeBall\eyeball.dsn
+
+Netlist error #1:  C9: Pin on sheet 1 has a blank pin name.  Pin number = "1"
+Netlist error #2:  C2: Pin on sheet 1 has a blank pin name.  Pin number = "2"
+Netlist error #3:  C1: Pin on sheet 1 has a blank pin name.  Pin number = "2"
+Netlist error #4:  H1: Pin on sheet 2 has a blank pin name.  Pin number = "10"
+Netlist error #5:  H1: Pin on sheet 2 has a blank pin name.  Pin number = "9"
+Netlist error #6:  H1: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "9"
+Netlist error #7:  C10: Pin on sheet 1 has a blank pin name.  Pin number = "2"
+Netlist error #8:  C5: Pin on sheet 1 has a blank pin name.  Pin number = "1"
+Netlist error #9:  C4: Pin on sheet 1 has a blank pin name.  Pin number = "1"
+Netlist error #10:  H1: Pin on sheet 2 has a blank pin name.  Pin number = "1"
+Netlist error #11:  H1: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "1"
+Netlist error #12:  H1: Pin on sheet 2 has a blank pin name.  Pin number = "2"
+Netlist error #13:  H1: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "2"
+Netlist error #14:  R29: Pin on sheet 1 has a blank pin name.  Pin number = "1"
+Netlist error #15:  D16: Pin on sheet 1 has a blank pin name.  Pin number = "1"
+Netlist error #16:  H2: Pin on sheet 2 has a blank pin name.  Pin number = "3"
+Netlist error #17:  D17: Pin on sheet 1 has a blank pin name.  Pin number = "1"
+Netlist error #18:  C10: Pin on sheet 1 has a blank pin name.  Pin number = "1"
+Netlist error #19:  C10: Pin on sheet 1 has a duplicate pin name.  Pin name = "", Pin number = "1"
+Netlist error #20:  C2: Pin on sheet 1 has a blank pin name.  Pin number = "1"
+Netlist error #21:  C2: Pin on sheet 1 has a duplicate pin name.  Pin name = "", Pin number = "1"
+Netlist error #22:  C1: Pin on sheet 1 has a blank pin name.  Pin number = "1"
+Netlist error #23:  C1: Pin on sheet 1 has a duplicate pin name.  Pin name = "", Pin number = "1"
+Netlist error #24:  C4: Pin on sheet 1 has a blank pin name.  Pin number = "2"
+Netlist error #25:  C4: Pin on sheet 1 has a duplicate pin name.  Pin name = "", Pin number = "2"
+Netlist error #26:  C5: Pin on sheet 1 has a blank pin name.  Pin number = "2"
+Netlist error #27:  C5: Pin on sheet 1 has a duplicate pin name.  Pin name = "", Pin number = "2"
+Netlist error #28:  C7: Pin on sheet 1 has a blank pin name.  Pin number = "1"
+Netlist error #29:  C8: Pin on sheet 1 has a blank pin name.  Pin number = "1"
+Netlist error #30:  C15: Pin on sheet 1 has a blank pin name.  Pin number = "1"
+Netlist error #31:  C16: Pin on sheet 1 has a blank pin name.  Pin number = "1"
+Netlist error #32:  C9: Pin on sheet 1 has a blank pin name.  Pin number = "2"
+Netlist error #33:  C9: Pin on sheet 1 has a duplicate pin name.  Pin name = "", Pin number = "2"
+Netlist error #34:  Q2: Pin on sheet 1 has a blank pin name.  Pin number = "1"
+Netlist error #35:  Q3: Pin on sheet 1 has a blank pin name.  Pin number = "1"
+Netlist error #36:  C13: Pin on sheet 1 has a blank pin name.  Pin number = "1"
+Netlist error #37:  D4: Pin on sheet 1 has a blank pin name.  Pin number = "1"
+Netlist error #38:  C6: Pin on sheet 1 has a blank pin name.  Pin number = "1"
+Netlist error #39:  D5: Pin on sheet 2 has a blank pin name.  Pin number = "1"
+Netlist error #40:  U2: Pin on sheet 2 has a duplicate pin name.  Pin name = "+", Pin number = "3"
+Netlist error #41:  D6: Pin on sheet 2 has a blank pin name.  Pin number = "1"
+Netlist error #42:  C19: Pin on sheet 2 has a blank pin name.  Pin number = "2"
+Netlist error #43:  D9: Pin on sheet 2 has a blank pin name.  Pin number = "1"
+Netlist error #44:  D11: Pin on sheet 2 has a blank pin name.  Pin number = "1"
+Netlist error #45:  D13: Pin on sheet 2 has a blank pin name.  Pin number = "1"
+Netlist error #46:  H1: Pin on sheet 2 has a blank pin name.  Pin number = "8"
+Netlist error #47:  H1: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "8"
+Netlist error #48:  H1: Pin on sheet 2 has a blank pin name.  Pin number = "7"
+Netlist error #49:  H1: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "7"
+Netlist error #50:  H1: Pin on sheet 2 has a blank pin name.  Pin number = "6"
+Netlist error #51:  H1: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "6"
+Netlist error #52:  H1: Pin on sheet 2 has a blank pin name.  Pin number = "5"
+Netlist error #53:  H1: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "5"
+Netlist error #54:  H1: Pin on sheet 2 has a blank pin name.  Pin number = "4"
+Netlist error #55:  H1: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "4"
+Netlist error #56:  H1: Pin on sheet 2 has a blank pin name.  Pin number = "3"
+Netlist error #57:  H1: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "3"
+Netlist error #58:  TP1: Pin on sheet 2 has a blank pin name.  Pin number = "1"
+Netlist error #59:  C7: Pin on sheet 1 has a blank pin name.  Pin number = "2"
+Netlist error #60:  C7: Pin on sheet 1 has a duplicate pin name.  Pin name = "", Pin number = "2"
+Netlist error #61:  C8: Pin on sheet 1 has a blank pin name.  Pin number = "2"
+Netlist error #62:  C8: Pin on sheet 1 has a duplicate pin name.  Pin name = "", Pin number = "2"
+Netlist error #63:  D2: Pin on sheet 1 has a blank pin name.  Pin number = "1"
+Netlist error #64:  R2: Pin on sheet 1 has a blank pin name.  Pin number = "2"
+Netlist error #65:  R1: Pin on sheet 1 has a blank pin name.  Pin number = "2"
+Netlist error #66:  D1: Pin on sheet 1 has a blank pin name.  Pin number = "1"
+Netlist error #67:  R15: Pin on sheet 1 has a blank pin name.  Pin number = "2"
+Netlist error #68:  C6: Pin on sheet 1 has a blank pin name.  Pin number = "2"
+Netlist error #69:  C6: Pin on sheet 1 has a duplicate pin name.  Pin name = "", Pin number = "2"
+Netlist error #70:  D12: Pin on sheet 2 has a blank pin name.  Pin number = "2"
+Netlist error #71:  D15: Pin on sheet 2 has a blank pin name.  Pin number = "1"
+Netlist error #72:  D8: Pin on sheet 2 has a blank pin name.  Pin number = "2"
+Netlist error #73:  D10: Pin on sheet 2 has a blank pin name.  Pin number = "2"
+Netlist error #74:  D14: Pin on sheet 2 has a blank pin name.  Pin number = "1"
+Netlist error #75:  C13: Pin on sheet 1 has a blank pin name.  Pin number = "2"
+Netlist error #76:  C13: Pin on sheet 1 has a duplicate pin name.  Pin name = "", Pin number = "2"
+Netlist error #77:  R16: Pin on sheet 1 has a blank pin name.  Pin number = "1"
+Netlist error #78:  R17: Pin on sheet 2 has a blank pin name.  Pin number = "1"
+Netlist error #79:  R14: Pin on sheet 1 has a blank pin name.  Pin number = "1"
+Netlist error #80:  D3: Pin on sheet 1 has a blank pin name.  Pin number = "1"
+Netlist error #81:  H2: Pin on sheet 2 has a blank pin name.  Pin number = "1"
+Netlist error #82:  H2: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "1"
+Netlist error #83:  R4: Pin on sheet 1 has a blank pin name.  Pin number = "2"
+Netlist error #84:  R3: Pin on sheet 1 has a blank pin name.  Pin number = "1"
+Netlist error #85:  C17: Pin on sheet 2 has a blank pin name.  Pin number = "2"
+Netlist error #86:  H3: Pin on sheet 2 has a blank pin name.  Pin number = "3"
+Netlist error #87:  R24: Pin on sheet 2 has a blank pin name.  Pin number = "1"
+Netlist error #88:  H4: Pin on sheet 2 has a blank pin name.  Pin number = "3"
+Netlist error #89:  R27: Pin on sheet 2 has a blank pin name.  Pin number = "1"
+Netlist error #90:  H3: Pin on sheet 2 has a blank pin name.  Pin number = "1"
+Netlist error #91:  H3: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "1"
+Netlist error #92:  R26: Pin on sheet 2 has a blank pin name.  Pin number = "1"
+Netlist error #93:  R2: Pin on sheet 1 has a blank pin name.  Pin number = "1"
+Netlist error #94:  R2: Pin on sheet 1 has a duplicate pin name.  Pin name = "", Pin number = "1"
+Netlist error #95:  U1: Pin on sheet 1 has a duplicate pin name.  Pin name = "-", Pin number = "2"
+Netlist error #96:  R3: Pin on sheet 1 has a blank pin name.  Pin number = "2"
+Netlist error #97:  R3: Pin on sheet 1 has a duplicate pin name.  Pin name = "", Pin number = "2"
+Netlist error #98:  U1: Pin on sheet 1 has a duplicate pin name.  Pin name = "+", Pin number = "3"
+Netlist error #99:  R30: Pin on sheet 1 has a blank pin name.  Pin number = "1"
+Netlist error #100:  D16: Pin on sheet 1 has a blank pin name.  Pin number = "2"
+Netlist error #101:  D16: Pin on sheet 1 has a duplicate pin name.  Pin name = "", Pin number = "2"
+Netlist error #102:  D17: Pin on sheet 1 has a blank pin name.  Pin number = "2"
+Netlist error #103:  D17: Pin on sheet 1 has a duplicate pin name.  Pin name = "", Pin number = "2"
+Netlist error #104:  U2: Pin on sheet 1 has a duplicate pin name.  Pin name = "+", Pin number = "5"
+Netlist error #105:  R6: Pin on sheet 1 has a blank pin name.  Pin number = "3"
+Netlist error #106:  R11: Pin on sheet 1 has a blank pin name.  Pin number = "1"
+Netlist error #107:  R9: Pin on sheet 1 has a blank pin name.  Pin number = "2"
+Netlist error #108:  R9: Pin on sheet 1 has a blank pin name.  Pin number = "1"
+Netlist error #109:  R9: Pin on sheet 1 has a duplicate pin name.  Pin name = "", Pin number = "1"
+Netlist error #110:  D1: Pin on sheet 1 has a blank pin name.  Pin number = "2"
+Netlist error #111:  D1: Pin on sheet 1 has a duplicate pin name.  Pin name = "", Pin number = "2"
+Netlist error #112:  R10: Pin on sheet 1 has a blank pin name.  Pin number = "2"
+Netlist error #113:  R10: Pin on sheet 1 has a blank pin name.  Pin number = "1"
+Netlist error #114:  R10: Pin on sheet 1 has a duplicate pin name.  Pin name = "", Pin number = "1"
+Netlist error #115:  D2: Pin on sheet 1 has a blank pin name.  Pin number = "2"
+Netlist error #116:  D2: Pin on sheet 1 has a duplicate pin name.  Pin name = "", Pin number = "2"
+Netlist error #117:  R11: Pin on sheet 1 has a blank pin name.  Pin number = "2"
+Netlist error #118:  R11: Pin on sheet 1 has a duplicate pin name.  Pin name = "", Pin number = "2"
+Netlist error #119:  C14: Pin on sheet 1 has a blank pin name.  Pin number = "1"
+Netlist error #120:  R12: Pin on sheet 1 has a blank pin name.  Pin number = "1"
+Netlist error #121:  R12: Pin on sheet 1 has a blank pin name.  Pin number = "2"
+Netlist error #122:  R12: Pin on sheet 1 has a duplicate pin name.  Pin name = "", Pin number = "2"
+Netlist error #123:  C15: Pin on sheet 1 has a blank pin name.  Pin number = "2"
+Netlist error #124:  C15: Pin on sheet 1 has a duplicate pin name.  Pin name = "", Pin number = "2"
+Netlist error #125:  U2: Pin on sheet 1 has a duplicate pin name.  Pin name = "+", Pin number = "12"
+Netlist error #126:  R13: Pin on sheet 1 has a blank pin name.  Pin number = "2"
+Netlist error #127:  C16: Pin on sheet 1 has a blank pin name.  Pin number = "2"
+Netlist error #128:  C16: Pin on sheet 1 has a duplicate pin name.  Pin name = "", Pin number = "2"
+Netlist error #129:  U1: Pin on sheet 1 has a duplicate pin name.  Pin name = "+", Pin number = "12"
+Netlist error #130:  C14: Pin on sheet 1 has a blank pin name.  Pin number = "2"
+Netlist error #131:  C14: Pin on sheet 1 has a duplicate pin name.  Pin name = "", Pin number = "2"
+Netlist error #132:  U2: Pin on sheet 1 has a duplicate pin name.  Pin name = "OUTPUT", Pin number = "14"
+Netlist error #133:  R13: Pin on sheet 1 has a blank pin name.  Pin number = "1"
+Netlist error #134:  R13: Pin on sheet 1 has a duplicate pin name.  Pin name = "", Pin number = "1"
+Netlist error #135:  R15: Pin on sheet 1 has a blank pin name.  Pin number = "1"
+Netlist error #136:  R15: Pin on sheet 1 has a duplicate pin name.  Pin name = "", Pin number = "1"
+Netlist error #137:  R5: Pin on sheet 1 has a blank pin name.  Pin number = "1"
+Netlist error #138:  R16: Pin on sheet 1 has a blank pin name.  Pin number = "2"
+Netlist error #139:  R16: Pin on sheet 1 has a duplicate pin name.  Pin name = "", Pin number = "2"
+Netlist error #140:  R5: Pin on sheet 1 has a blank pin name.  Pin number = "3"
+Netlist error #141:  R5: Pin on sheet 1 has a duplicate pin name.  Pin name = "", Pin number = "3"
+Netlist error #142:  R29: Pin on sheet 1 has a blank pin name.  Pin number = "2"
+Netlist error #143:  R29: Pin on sheet 1 has a duplicate pin name.  Pin name = "", Pin number = "2"
+Netlist error #144:  R7: Pin on sheet 1 has a blank pin name.  Pin number = "2"
+Netlist error #145:  U1: Pin on sheet 1 has a duplicate pin name.  Pin name = "-", Pin number = "13"
+Netlist error #146:  U1: Pin on sheet 1 has a duplicate pin name.  Pin name = "OUTPUT", Pin number = "14"
+Netlist error #147:  R1: Pin on sheet 1 has a blank pin name.  Pin number = "1"
+Netlist error #148:  R1: Pin on sheet 1 has a duplicate pin name.  Pin name = "", Pin number = "1"
+Netlist error #149:  R30: Pin on sheet 1 has a blank pin name.  Pin number = "2"
+Netlist error #150:  R30: Pin on sheet 1 has a duplicate pin name.  Pin name = "", Pin number = "2"
+Netlist error #151:  R8: Pin on sheet 1 has a blank pin name.  Pin number = "1"
+Netlist error #152:  R14: Pin on sheet 1 has a blank pin name.  Pin number = "2"
+Netlist error #153:  R14: Pin on sheet 1 has a duplicate pin name.  Pin name = "", Pin number = "2"
+Netlist error #154:  U2: Pin on sheet 1 has a duplicate pin name.  Pin name = "OUTPUT", Pin number = "8"
+Netlist error #155:  U1: Pin on sheet 1 has a duplicate pin name.  Pin name = "+", Pin number = "5"
+Netlist error #156:  U1: Pin on sheet 1 has a duplicate pin name.  Pin name = "-", Pin number = "9"
+Netlist error #157:  R7: Pin on sheet 1 has a blank pin name.  Pin number = "1"
+Netlist error #158:  R7: Pin on sheet 1 has a duplicate pin name.  Pin name = "", Pin number = "1"
+Netlist error #159:  R8: Pin on sheet 1 has a blank pin name.  Pin number = "2"
+Netlist error #160:  R8: Pin on sheet 1 has a duplicate pin name.  Pin name = "", Pin number = "2"
+Netlist error #161:  U2: Pin on sheet 1 has a duplicate pin name.  Pin name = "-", Pin number = "9"
+Netlist error #162:  D3: Pin on sheet 1 has a blank pin name.  Pin number = "2"
+Netlist error #163:  D3: Pin on sheet 1 has a duplicate pin name.  Pin name = "", Pin number = "2"
+Netlist error #164:  D4: Pin on sheet 1 has a blank pin name.  Pin number = "2"
+Netlist error #165:  D4: Pin on sheet 1 has a duplicate pin name.  Pin name = "", Pin number = "2"
+Netlist error #166:  Q2: Pin on sheet 1 has a blank pin name.  Pin number = "2"
+Netlist error #167:  Q2: Pin on sheet 1 has a duplicate pin name.  Pin name = "", Pin number = "2"
+Netlist error #168:  U1: Pin on sheet 1 has a duplicate pin name.  Pin name = "OUTPUT", Pin number = "7"
+Netlist error #169:  Q3: Pin on sheet 1 has a blank pin name.  Pin number = "2"
+Netlist error #170:  Q3: Pin on sheet 1 has a duplicate pin name.  Pin name = "", Pin number = "2"
+Netlist error #171:  U1: Pin on sheet 1 has a duplicate pin name.  Pin name = "OUTPUT", Pin number = "8"
+Netlist error #172:  R4: Pin on sheet 1 has a blank pin name.  Pin number = "1"
+Netlist error #173:  R4: Pin on sheet 1 has a duplicate pin name.  Pin name = "", Pin number = "1"
+Netlist error #174:  R6: Pin on sheet 1 has a blank pin name.  Pin number = "1"
+Netlist error #175:  R6: Pin on sheet 1 has a duplicate pin name.  Pin name = "", Pin number = "1"
+Netlist error #176:  U2: Pin on sheet 1 has a duplicate pin name.  Pin name = "-", Pin number = "6"
+Netlist error #177:  R20: Pin on sheet 2 has a blank pin name.  Pin number = "2"
+Netlist error #178:  R19: Pin on sheet 2 has a blank pin name.  Pin number = "2"
+Netlist error #179:  U2: Pin on sheet 2 has a duplicate pin name.  Pin name = "OUTPUT", Pin number = "1"
+Netlist error #180:  C18: Pin on sheet 2 has a blank pin name.  Pin number = "1"
+Netlist error #181:  R21: Pin on sheet 2 has a blank pin name.  Pin number = "2"
+Netlist error #182:  D7: Pin on sheet 2 has a blank pin name.  Pin number = "2"
+Netlist error #183:  C19: Pin on sheet 2 has a blank pin name.  Pin number = "1"
+Netlist error #184:  C19: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "1"
+Netlist error #185:  R22: Pin on sheet 2 has a blank pin name.  Pin number = "1"
+Netlist error #186:  R21: Pin on sheet 2 has a blank pin name.  Pin number = "1"
+Netlist error #187:  R21: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "1"
+Netlist error #188:  R23: Pin on sheet 2 has a blank pin name.  Pin number = "1"
+Netlist error #189:  R22: Pin on sheet 2 has a blank pin name.  Pin number = "3"
+Netlist error #190:  R22: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "3"
+Netlist error #191:  D7: Pin on sheet 2 has a blank pin name.  Pin number = "1"
+Netlist error #192:  D7: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "1"
+Netlist error #193:  R23: Pin on sheet 2 has a blank pin name.  Pin number = "2"
+Netlist error #194:  R23: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "2"
+Netlist error #195:  R26: Pin on sheet 2 has a blank pin name.  Pin number = "2"
+Netlist error #196:  R26: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "2"
+Netlist error #197:  D10: Pin on sheet 2 has a blank pin name.  Pin number = "1"
+Netlist error #198:  D10: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "1"
+Netlist error #199:  D11: Pin on sheet 2 has a blank pin name.  Pin number = "2"
+Netlist error #200:  D11: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "2"
+Netlist error #201:  R24: Pin on sheet 2 has a blank pin name.  Pin number = "2"
+Netlist error #202:  R24: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "2"
+Netlist error #203:  D9: Pin on sheet 2 has a blank pin name.  Pin number = "2"
+Netlist error #204:  D9: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "2"
+Netlist error #205:  D8: Pin on sheet 2 has a blank pin name.  Pin number = "1"
+Netlist error #206:  D8: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "1"
+Netlist error #207:  R25: Pin on sheet 2 has a blank pin name.  Pin number = "1"
+Netlist error #208:  D14: Pin on sheet 2 has a blank pin name.  Pin number = "2"
+Netlist error #209:  D14: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "2"
+Netlist error #210:  R25: Pin on sheet 2 has a blank pin name.  Pin number = "2"
+Netlist error #211:  R25: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "2"
+Netlist error #212:  R27: Pin on sheet 2 has a blank pin name.  Pin number = "2"
+Netlist error #213:  R27: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "2"
+Netlist error #214:  D13: Pin on sheet 2 has a blank pin name.  Pin number = "2"
+Netlist error #215:  D13: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "2"
+Netlist error #216:  D12: Pin on sheet 2 has a blank pin name.  Pin number = "1"
+Netlist error #217:  D12: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "1"
+Netlist error #218:  R28: Pin on sheet 2 has a blank pin name.  Pin number = "1"
+Netlist error #219:  D15: Pin on sheet 2 has a blank pin name.  Pin number = "2"
+Netlist error #220:  D15: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "2"
+Netlist error #221:  R28: Pin on sheet 2 has a blank pin name.  Pin number = "2"
+Netlist error #222:  R28: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "2"
+Netlist error #223:  D6: Pin on sheet 2 has a blank pin name.  Pin number = "2"
+Netlist error #224:  D6: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "2"
+Netlist error #225:  D5: Pin on sheet 2 has a blank pin name.  Pin number = "2"
+Netlist error #226:  D5: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "2"
+Netlist error #227:  R20: Pin on sheet 2 has a blank pin name.  Pin number = "1"
+Netlist error #228:  R20: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "1"
+Netlist error #229:  H1: Pin on sheet 2 has a blank pin name.  Pin number = "11"
+Netlist error #230:  H1: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "11"
+Netlist error #231:  H1: Pin on sheet 2 has a blank pin name.  Pin number = "12"
+Netlist error #232:  H1: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "12"
+Netlist error #233:  H1: Pin on sheet 2 has a blank pin name.  Pin number = "13"
+Netlist error #234:  H1: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "13"
+Netlist error #235:  H1: Pin on sheet 2 has a blank pin name.  Pin number = "14"
+Netlist error #236:  H1: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "14"
+Netlist error #237:  H2: Pin on sheet 2 has a blank pin name.  Pin number = "2"
+Netlist error #238:  H2: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "2"
+Netlist error #239:  H1: Pin on sheet 2 has a blank pin name.  Pin number = "15"
+Netlist error #240:  H1: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "15"
+Netlist error #241:  H1: Pin on sheet 2 has a blank pin name.  Pin number = "16"
+Netlist error #242:  H1: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "16"
+Netlist error #243:  H4: Pin on sheet 2 has a blank pin name.  Pin number = "2"
+Netlist error #244:  H4: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "2"
+Netlist error #245:  H4: Pin on sheet 2 has a blank pin name.  Pin number = "1"
+Netlist error #246:  H4: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "1"
+Netlist error #247:  H3: Pin on sheet 2 has a blank pin name.  Pin number = "2"
+Netlist error #248:  H3: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "2"
+Netlist error #249:  R18: Pin on sheet 2 has a blank pin name.  Pin number = "2"
+Netlist error #250:  C17: Pin on sheet 2 has a blank pin name.  Pin number = "1"
+Netlist error #251:  C17: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "1"
+Netlist error #252:  C18: Pin on sheet 2 has a blank pin name.  Pin number = "2"
+Netlist error #253:  C18: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "2"
+Netlist error #254:  U2: Pin on sheet 2 has a duplicate pin name.  Pin name = "-", Pin number = "2"
+Netlist error #255:  R18: Pin on sheet 2 has a blank pin name.  Pin number = "1"
+Netlist error #256:  R18: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "1"
+Netlist error #257:  R17: Pin on sheet 2 has a blank pin name.  Pin number = "2"
+Netlist error #258:  R17: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "2"
+Netlist error #259:  R19: Pin on sheet 2 has a blank pin name.  Pin number = "1"
+Netlist error #260:  R19: Pin on sheet 2 has a duplicate pin name.  Pin name = "", Pin number = "1"
+Netlist error #261:  C1: .1uF on sheet 1 has no model
+Netlist error #262:  C10: 100uF on sheet 1 has no model
+Netlist error #263:  C13: .1uF on sheet 1 has no model
+Netlist error #264:  C14: 1uF on sheet 1 has no model
+Netlist error #265:  C15: 100nF on sheet 1 has no model
+Netlist error #266:  C16: 1uF on sheet 1 has no model
+Netlist error #267:  C17: 100nF on sheet 2 has no model
+Netlist error #268:  C18: 100nF on sheet 2 has no model
+Netlist error #269:  C19: 100uF on sheet 2 has no model
+Netlist error #270:  C2: .1uF on sheet 1 has no model
+Netlist error #271:  C4: .1uF on sheet 1 has no model
+Netlist error #272:  C5: .1uF on sheet 1 has no model
+Netlist error #273:  C6: .1uF on sheet 1 has no model
+Netlist error #274:  C7: .1uF on sheet 1 has no model
+Netlist error #275:  C8: .1uF on sheet 1 has no model
+Netlist error #276:  C9: 100uF on sheet 1 has no model
+Netlist error #277:  D1: RED on sheet 1 has no model
+Netlist error #278:  D10: 1N4148 on sheet 2 has no model
+Netlist error #279:  D11: 1N4148 on sheet 2 has no model
+Netlist error #280:  D12: 1N4148 on sheet 2 has no model
+Netlist error #281:  D13: 1N4148 on sheet 2 has no model
+Netlist error #282:  D14: Yellow on sheet 2 has no model
+Netlist error #283:  D15: Green on sheet 2 has no model
+Netlist error #284:  D16: 4.7V on sheet 1 has no model
+Netlist error #285:  D17: 4.7V on sheet 1 has no model
+Netlist error #286:  D2: BLUE on sheet 1 has no model
+Netlist error #287:  D3: 4.7V on sheet 1 has no model
+Netlist error #288:  D4: 4.7V on sheet 1 has no model
+Netlist error #289:  D5: 4.7V on sheet 2 has no model
+Netlist error #290:  D6: SB120 on sheet 2 has no model
+Netlist error #291:  D7: 1N4148 on sheet 2 has no model
+Netlist error #292:  D8: 1N4148 on sheet 2 has no model
+Netlist error #293:  D9: 1N4148 on sheet 2 has no model
+Netlist error #294:  H1: 8x2_HDR on sheet 2 has no model
+Netlist error #295:  H2: 3x1_HDR on sheet 2 has no model
+Netlist error #296:  H3: 3x1_HDR on sheet 2 has no model
+Netlist error #297:  H4: 3x1_HDR on sheet 2 has no model
+Netlist error #298:  J1: EURO_JACK on sheet 1 has no model
+Netlist error #299:  J2: EURO_JACK on sheet 1 has no model
+Netlist error #300:  J3: EURO_JACK on sheet 2 has no model
+Netlist error #301:  J4: EURO_JACK on sheet 2 has no model
+Netlist error #302:  J5: EURO_JACK on sheet 2 has no model
+Netlist error #303:  Q1: TEPT4400 on sheet 1 has no model
+Netlist error #304:  Q2: ZVN4206A on sheet 1 has no model
+Netlist error #305:  Q3: ZVN4206A on sheet 1 has no model
+Netlist error #306:  R1: 10K on sheet 1 has no model
+Netlist error #307:  R10: 1K on sheet 1 has no model
+Netlist error #308:  R11: 17.8K on sheet 1 has no model
+Netlist error #309:  R12: 140K on sheet 1 has no model
+Netlist error #310:  R13: 15.8K on sheet 1 has no model
+Netlist error #311:  R14: 1K on sheet 1 has no model
+Netlist error #312:  R15: 10K on sheet 1 has no model
+Netlist error #313:  R16: 10K on sheet 1 has no model
+Netlist error #314:  R17: 1M on sheet 2 has no model
+Netlist error #315:  R18: 100K on sheet 2 has no model
+Netlist error #316:  R19: 1M on sheet 2 has no model
+Netlist error #317:  R2: 100K on sheet 1 has no model
+Netlist error #318:  R20: 1K on sheet 2 has no model
+Netlist error #319:  R21: 1K on sheet 2 has no model
+Netlist error #320:  R22: 100K on sheet 2 has no model
+Netlist error #321:  R23: 1K on sheet 2 has no model
+Netlist error #322:  R24: 470 on sheet 2 has no model
+Netlist error #323:  R25: 1K on sheet 2 has no model
+Netlist error #324:  R26: 470 on sheet 2 has no model
+Netlist error #325:  R27: 470 on sheet 2 has no model
+Netlist error #326:  R28: 1K on sheet 2 has no model
+Netlist error #327:  R29: 1K on sheet 1 has no model
+Netlist error #328:  R3: 100K on sheet 1 has no model
+Netlist error #329:  R30: 1M on sheet 1 has no model
+Netlist error #330:  R4: 100K on sheet 1 has no model
+Netlist error #331:  R5: 100K on sheet 1 has no model
+Netlist error #332:  R6: 100K on sheet 1 has no model
+Netlist error #333:  R7: 100K on sheet 1 has no model
+Netlist error #334:  R8: 100K on sheet 1 has no model
+Netlist error #335:  R9: 1K on sheet 1 has no model
+Netlist error #336:  TP1: TP on sheet 2 has no model
+Netlist error #337:  U1: TL074 on sheet 1 has no model
+Netlist error #338:  U2: TL074 on sheet 2 has no model
+Netlist error #339:  U3: LM79L05 on sheet 1 has no model
+Netlist error #340:  U4: 74HC14 on sheet 2 has no model
+Netlist error #341:  U5: HC74 on sheet 2 has no model
+Netlist error #342:  U6: LM78L05 on sheet 1 has no model
+
+342 errors found
