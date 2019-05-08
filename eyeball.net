@@ -56,8 +56,8 @@ SC3
 SC4     
 N3      This part has no 'Package' attribute
 N4      This part has no 'Package' attribute
-J2      SCH4832a
-J1      SCH4832a
+J2      SCH4832
+J1      SCH4832
 SO5     ..
 SO6     ..
 SO7     ..
@@ -89,7 +89,7 @@ R28     RC05
 D15     LED-T1
 R17     RC05
 D6      DO-41
-J4      SCH4832a
+J4      SCH4832
 H1      8X2HDR-100a
 TP1     TP-5000
 H3      3SIP100
@@ -103,8 +103,8 @@ R18     RC05
 D11     DO-35
 C17     CK05
 C18     CK05
-J3      SCH4832a
-J5      SCH4832a
+J3      SCH4832
+J5      SCH4832
 
 *NET*
 *SIGNAL*  +12V
